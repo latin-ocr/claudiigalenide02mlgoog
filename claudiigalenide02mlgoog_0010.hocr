@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./claudiigalenide02mlgoog/claudiigalenide02mlgoog_0010.png"; bbox 0 0 3246 5148; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 399 1869 984 1985">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 399 1869 984 1985">
+     <span class='ocr_line' id='line_1_1' title="bbox 399 1869 984 1985; baseline 0.005 -3"><span class='ocrx_word' id='word_1_1' title='bbox 399 1869 686 1984; x_wconf 76' lang='lat' dir='ltr'><strong>CLAUDII</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 728 1871 984 1985; x_wconf 81' lang='lat' dir='ltr'><strong>GALENI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 191 2137 1195 2255">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 191 2137 1195 2255">
+     <span class='ocr_line' id='line_1_2' title="bbox 191 2137 1195 2255; baseline 0.003 -4"><span class='ocrx_word' id='word_1_3' title='bbox 191 2137 253 2252; x_wconf 71' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 283 2179 500 2254; x_wconf 77' lang='lat' dir='ltr'><strong>PLAOI&#39;I&#39;IS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 528 2181 842 2255; x_wconf 78' lang='lat' dir='ltr'>HIPPOORATIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 870 2181 933 2254; x_wconf 85' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 960 2181 1195 2255; x_wconf 80' lang='lat' dir='ltr'>PLATONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 543 2441 851 2508">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 543 2441 851 2508">
+     <span class='ocr_line' id='line_1_3' title="bbox 543 2441 851 2508; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 543 2442 661 2508; x_wconf 84' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_9' title='bbox 685 2441 851 2508; x_wconf 80' lang='lat' dir='ltr'><strong>NOVEM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1628 5148">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1628 5148">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1628 5148; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1628 5148; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
